@@ -1,5 +1,5 @@
 {
-    "name": "Chrome Extension Simple Webpack",
+    "name": "chrome-extension-simple-webpack",
     "version": "1.0.0",
     "scripts": {
         "start": "webpack --watch",
